@@ -9,7 +9,7 @@ In this case I assume you have the following requirements:
 
 
 ``` bash
-https://github.com/zakiamansyah/to_do_list_application
+git clone https://github.com/zakiamansyah/to_do_list_application
 cd to_do_list_application
 composer install
 composer update
